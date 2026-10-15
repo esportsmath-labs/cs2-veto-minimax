@@ -2,7 +2,7 @@
 
 [![Tests](https://img.shields.io/badge/Tests-Passing-00FF88.svg)](https://github.com/esportsmath-labs/cs2-veto-minimax)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Portal](https://img.shields.io/badge/Portal-esportsmath.org-00E5FF.svg)](https://esportsmath.org/en/tools/cs2-veto-simulator/)
+[![Portal](https://img.shields.io/badge/Portal-esportsmath.org-00E5FF.svg)](https://esportsmath.org/en/tools/map-veto-analyzer/)
 [![Affiliation](https://img.shields.io/badge/Institution-Applied%20Probability%20Institute-gold.svg)](https://esportsmath.org/en/about/)
 
 Algorithmic backward induction draft simulator for professional Counter-Strike 2 (CS2) Active Duty map pools. Eliminates human drafting bias by solving for the subgame perfect Nash equilibrium in Bo1 and Bo3 pick/ban veto trees.
@@ -46,7 +46,7 @@ node cli.js
 ---
 
 ## 🌐 Live Interactive Tool
-Experience the live graphical draft engine and test custom matchups at [esportsmath.org/tools/cs2-veto-simulator/](https://esportsmath.org/en/tools/cs2-veto-simulator/).
+Experience the live graphical draft engine and test custom matchups at [esportsmath.org/en/tools/map-veto-analyzer/](https://esportsmath.org/en/tools/map-veto-analyzer/).
 
 ## 📜 Citation
 ```bibtex
